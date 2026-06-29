@@ -10,7 +10,7 @@ El objetivo del dashboard es medir el desempeño operativo para Incrementar la p
 - Power BI
 - Lenguaje DAX
 - Visualización de datos
-- Optimización de reportes
+- Optimización de procesos
 
 # Función del Dashboard.
 
